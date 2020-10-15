@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseDashBoard", "SmartHouseDashBoard\SmartHouseDashBoard.csproj", "{A9DC92C1-8BCB-46B9-AC8F-E62BB81BAF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseDashBoard.Persistence", "SmartHouseDashBoard.Infrastrure\SmartHouseDashBoard.Persistence.csproj", "{B7A1F1CB-2473-4770-B715-98C9827EA8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseDashBoard.Services", "SmartHouseDashBoard.Service\SmartHouseDashBoard.Services.csproj", "{41D9FD59-8FDA-45B5-9EA1-04367C4CD877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseDashBoard.Interfaces", "SmartHouseDashBoard.Interfaces\SmartHouseDashBoard.Interfaces.csproj", "{A7B39F43-FFE3-4AEF-BE79-08024DC51347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseDashBoard.API", "SmartHouseDashBoard.API\SmartHouseDashBoard.API.csproj", "{BF535206-EC4E-4C78-A999-CD56584B234B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DC92C1-8BCB-46B9-AC8F-E62BB81BAF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DC92C1-8BCB-46B9-AC8F-E62BB81BAF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DC92C1-8BCB-46B9-AC8F-E62BB81BAF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DC92C1-8BCB-46B9-AC8F-E62BB81BAF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A1F1CB-2473-4770-B715-98C9827EA8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A1F1CB-2473-4770-B715-98C9827EA8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A1F1CB-2473-4770-B715-98C9827EA8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A1F1CB-2473-4770-B715-98C9827EA8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D9FD59-8FDA-45B5-9EA1-04367C4CD877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D9FD59-8FDA-45B5-9EA1-04367C4CD877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D9FD59-8FDA-45B5-9EA1-04367C4CD877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D9FD59-8FDA-45B5-9EA1-04367C4CD877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B39F43-FFE3-4AEF-BE79-08024DC51347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B39F43-FFE3-4AEF-BE79-08024DC51347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B39F43-FFE3-4AEF-BE79-08024DC51347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B39F43-FFE3-4AEF-BE79-08024DC51347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF535206-EC4E-4C78-A999-CD56584B234B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF535206-EC4E-4C78-A999-CD56584B234B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF535206-EC4E-4C78-A999-CD56584B234B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF535206-EC4E-4C78-A999-CD56584B234B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB9A69C-D2F7-449F-8C76-3F56D870B2B8}
+	EndGlobalSection
+EndGlobal

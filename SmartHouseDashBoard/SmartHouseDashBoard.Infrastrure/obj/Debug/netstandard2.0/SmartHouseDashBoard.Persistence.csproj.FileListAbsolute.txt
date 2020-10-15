@@ -1,0 +1,12 @@
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\bin\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.deps.json
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\bin\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.dll
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\bin\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.pdb
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.csprojAssemblyReference.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.AssemblyInfoInputs.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.AssemblyInfo.cs
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.dll
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.pdb
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\bin\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.dll
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\bin\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.pdb
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Infrastrure\obj\Debug\netstandard2.0\SmartHouseDashBoard.Persistence.csproj.CopyComplete

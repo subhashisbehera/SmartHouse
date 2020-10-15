@@ -1,0 +1,9 @@
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\bin\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.deps.json
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\bin\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.dll
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\bin\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.pdb
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.csprojAssemblyReference.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.AssemblyInfoInputs.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.AssemblyInfo.cs
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.dll
+C:\Users\INSUB12\source\repos\SmartHouseDashBoard\SmartHouseDashBoard.Interfaces\obj\Debug\netstandard2.0\SmartHouseDashBoard.Interfaces.pdb
