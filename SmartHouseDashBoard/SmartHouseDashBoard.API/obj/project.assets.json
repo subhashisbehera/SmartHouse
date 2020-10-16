@@ -6031,11 +6031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\SmartHouseDashBoard.API.csproj",
+      "projectUniqueName": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\SmartHouseDashBoard.API.csproj",
       "projectName": "SmartHouseDashBoard.API",
-      "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\SmartHouseDashBoard.API.csproj",
+      "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\SmartHouseDashBoard.API.csproj",
       "packagesPath": "C:\\Users\\INSUB12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\obj\\",
+      "outputPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\INSUB12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6051,11 +6051,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
+            "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
             },
-            "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {
-              "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj"
+            "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {
+              "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj"
             }
           }
         }

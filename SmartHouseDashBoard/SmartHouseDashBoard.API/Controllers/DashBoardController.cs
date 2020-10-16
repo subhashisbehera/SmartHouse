@@ -33,7 +33,7 @@ namespace SmartHouseDashBoard.API.Controllers
 
             return Ok(buildings);
         }
-        [HttpGet("floors/{buildingId:int}", Name = nameof(GetFloorsByBuilding))]
+        [HttpGet("buildings/{buildingId:int}/floors", Name = nameof(GetFloorsByBuilding))]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType(typeof(FloorDto), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<FloorDto>>> GetFloorsByBuilding(int buildingId)
@@ -45,7 +45,7 @@ namespace SmartHouseDashBoard.API.Controllers
 
             return Ok(floors);
         }
-        [HttpGet("rooms/{floorId:int}", Name = nameof(GetRoomsByFloor))]
+        [HttpGet("floors/{floorId:int}/rooms", Name = nameof(GetRoomsByFloor))]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType(typeof(RoomDto), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<RoomDto>>> GetRoomsByFloor(int floorId)
@@ -57,7 +57,7 @@ namespace SmartHouseDashBoard.API.Controllers
 
             return Ok(rooms);
         }
-        [HttpGet("sensors/{roomId:int}", Name = nameof(GetSensorsByFloor))]
+        [HttpGet("rooms/{roomId:int}/sensors", Name = nameof(GetSensorsByFloor))]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType(typeof(SensorDto), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<SensorDto>>> GetSensorsByFloor(int roomId)

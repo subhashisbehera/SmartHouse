@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZBHknv+80ycBaBcQJ3voNT9EDGvRLYgTXHxGl5Rk7iv6ISkWlIAT+d1x5CmUAhXwkZFdIy1FhRdUlu5Ev8bHg==",
+  "dgSpecHash": "mD4+/88Po3afuIfWM48Ynq3DGJrKxyL1P97oky7hVw3eKdQNAIBK/WFWW3r9daiqi0ch5TVCVFn6Qe9Jh6SSWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
+  "projectFilePath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INSUB12\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\INSUB12\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

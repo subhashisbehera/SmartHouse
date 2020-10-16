@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {}
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
         "projectName": "SmartHouseDashBoard.Interfaces",
-        "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
+        "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
         "packagesPath": "C:\\Users\\INSUB12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INSUB12\\AppData\\Roaming\\NuGet\\NuGet.Config",

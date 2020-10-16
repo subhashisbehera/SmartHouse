@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {}
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj": {
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
         "projectName": "SmartHouseDashBoard.Persistence",
-        "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
+        "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
         "packagesPath": "C:\\Users\\INSUB12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\obj\\",
+        "outputPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INSUB12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
+              "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
         "projectName": "SmartHouseDashBoard.Interfaces",
-        "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
+        "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj",
         "packagesPath": "C:\\Users\\INSUB12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INSUB12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {
+    "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
+        "projectUniqueName": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
         "projectName": "SmartHouseDashBoard.Services",
-        "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
+        "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\SmartHouseDashBoard.Services.csproj",
         "packagesPath": "C:\\Users\\INSUB12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\obj\\",
+        "outputPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INSUB12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,11 +147,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj": {
-                "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj"
+              "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj": {
+                "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj"
               },
-              "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
+              "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Interfaces\\SmartHouseDashBoard.Interfaces.csproj"
               }
             }
           }

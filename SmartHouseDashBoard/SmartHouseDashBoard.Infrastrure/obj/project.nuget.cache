@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KclfvPnhVNtkH4K1j95SBBkkTuztfPLRIfP77wSe0gXTMcYqBprYCQNRLNEMEqTE/KRoZY3xfV+a4gkcO5L6OQ==",
+  "dgSpecHash": "sUyozRdLIxhR8sHYcYukhUp0FUenRJpqZlgZJcTq3LkX4A6y60VTZRl5Jjs5b4eU9CJE6AnKccExauo8OTmNPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\INSUB12\\source\\repos\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\INSUB12\\Documents\\GitHub\\SmartHouse\\SmartHouseDashBoard\\SmartHouseDashBoard.Infrastrure\\SmartHouseDashBoard.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INSUB12\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\INSUB12\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
